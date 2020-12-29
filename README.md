@@ -1,2 +1,3 @@
 # Elite-Dangerous-Commodity-finder
-#parcer (not API)
+# parcer (not API)
+# Work in progress!
